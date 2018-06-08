@@ -6,11 +6,11 @@
  +
  +- First take a look at the [Troubleshooting section](https://help.datadoghq.com/hc/en-us/sections/200763635-Amazon-Web-Services) of our [Knowledge Base](https://help.datadoghq.com/hc/en-us).
  +- If you can't find anything useful, please contact our Solutions Team for assistance.
- +- Finally, you can open a Gitbub issue
+ +- Finally, you can open a Github issue
  +
  +## Pull Requests
  +
- +Thanks for helping this plugin grow! In order to ease/speed up our review, here are some items you can check/iprove when submitting your PR:
+ +Thanks for helping this plugin grow! In order to ease/speed up our review, here are some items you can check/improve when submitting your PR:
  +
  +- [ ] have a [proper commit history](#commits) (we advise you to rebase if needed).
  +- [ ] write tests for the code you wrote.
@@ -19,7 +19,7 @@
  +
  +## Commits
  +
- +- Pleaes keep each commit's changes small and focused--many changes in the same commit makes them harder to review.
+ +- Please keep each commit's changes small and focused--many changes in the same commit makes them harder to review.
  +- Please also combine each code-change within one commit rather than many commits. Rebase liberally. 
  +- Please make all commit messages clear and communicative.
  +
